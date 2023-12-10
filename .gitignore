@@ -3,6 +3,6 @@
 /Reports/*
 /Resources/*
 /Templates/*
-!Reources/index.bak
-!Reources/homepage-background-v1.svg
-!target/x86_64-pc-windows-gnu/release/tcp_localhost.exe
+!/Resources/index.bak
+!/Resources/homepage-background-v1.svg
+!/target/x86_64-pc-windows-gnu/release/tcp_localhost.exe
