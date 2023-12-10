@@ -1,8 +1,7 @@
-.gitignore
 /target
 /Reports/*
 /Resources/*
 /Templates/*
 !/Resources/index.bak
 !/Resources/homepage-background-v1.svg
-!/target/x86_64-pc-windows-gnu/release/tcp_localhost.exe
+!/target/x86_64-pc-windows-gnu/release/tcp_localhost.exe*
