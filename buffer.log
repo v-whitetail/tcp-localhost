@@ -1,0 +1,94 @@
+{
+ "projdata": {
+  "proj": "00069 - Bug Repellent",
+  "scop": "1A",
+  "auth": "STEVEN T",
+  "vers": 2,
+  "file": "File Box ",
+  "addy": "File Box Lane"
+ },
+ "userdata": {},
+ "partdata": {
+  "headers": [
+   "bod",
+   "com",
+   "mat",
+   "app",
+   "thi",
+   "wid",
+   "len",
+   "des",
+   "rep"
+  ],
+  "77df0937": [
+   "Body1",
+   "Back",
+   "Steel",
+   "Oak",
+   "0.75",
+   "12.00",
+   "16.00",
+   "",
+   [
+    "CNC-Report",
+    "Part-Labels"
+   ]
+  ],
+  "552cc260": [
+   "Body1",
+   "Front",
+   "Steel",
+   "Oak",
+   "0.75",
+   "12.00",
+   "16.00",
+   "",
+   [
+    "CNC-Report",
+    "Part-Labels"
+   ]
+  ],
+  "6e104823": [
+   "Body1",
+   "Right",
+   "Steel",
+   "Oak",
+   "0.75",
+   "9.00",
+   "12.00",
+   "",
+   [
+    "CNC-Report",
+    "Part-Labels"
+   ]
+  ],
+  "e0a35fc7": [
+   "Body1",
+   "Left",
+   "Steel",
+   "Oak",
+   "0.75",
+   "9.00",
+   "12.00",
+   "",
+   [
+    "CNC-Report",
+    "Part-Labels"
+   ]
+  ],
+  "66fc2429": [
+   "Body1",
+   "Bottom",
+   "Steel",
+   "Oak",
+   "0.75",
+   "8.0625",
+   "15.0625",
+   "",
+   [
+    "Sawing-Report",
+    "Part-Labels"
+   ]
+  ]
+ }
+}

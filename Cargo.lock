@@ -2438,7 +2438,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "tcp_localhost"
+name = "tcp-localhost"
 version = "0.1.0"
 dependencies = [
  "anyhow",
